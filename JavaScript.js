@@ -22,7 +22,7 @@ function bar()
 bar()
 
 
-//
+
 // All JSON data convert to JSON array data;
 serializeJSONArray: function () {
     var o = {};
