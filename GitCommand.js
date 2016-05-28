@@ -15,6 +15,7 @@ git mv <old name> <new name>
 
 
 $ ssh-keygen -t rsa -C "*@*.com"
+$ ssh-keygen -t rsa -b * -C "*@*.com"
 
 
 //05292016
